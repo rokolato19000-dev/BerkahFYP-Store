@@ -1,0 +1,46 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 20px;
+}
+
+.produk {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.produk img {
+  width: 100%;
+  max-width: 250px;
+}
+
+.harga {
+  font-size: 20px;
+  color: green;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: 30px;
+  padding: 15px;
+  background: #222;
+  color: white;
+}
